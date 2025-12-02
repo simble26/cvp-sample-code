@@ -37,7 +37,7 @@ Demonstrates the capabilities of Virtual Agent Voice Call Studio Element with gr
        maxwaittime
 
 ## Virtual Agent Voice Element specific guide
-* For Integration flow: In the VirtualAgentVoice element, mention the config ID in the "Config ID" field. This is a mandatory field.
+* For Integration flow: In the VirtualAgentVoice element, mention the config ID in the "Config ID" field.
 * Element data- “eventName” and “eventData” can be used to provide Event_Name and Data value specified in the custom payload from Webex AI Agent or Vendor side.
 * Re-entry after custom exit can be done through same/different VirtualAgentVoice element as per requirement.
   * NOTE: For Scripted AI Agent Custom Event Name is Mandatory to be defined in AI Agent and same need to be passed while invoking the AI Agent Call Flow.
