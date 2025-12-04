@@ -18,7 +18,7 @@ Demonstrates the capabilities of Virtual Agent Voice Call Studio Element with gr
         var fixJSON1 = inputJSON.replace(/\\:/g,':');  
         var fixJSON2 = fixJSON1.replace(/\\,/g,',');
 
- # * NOTE: For Scripted, Custom Event Name is Mandatory to be defined and same need to be passed while invoking the Virtual Agent Voice Call Flow
+* NOTE: For Scripted, Custom Event Name is Mandatory to be defined and same need to be passed while invoking the Virtual Agent Voice Call Flow.
 
 
 ## Application Enhancements
