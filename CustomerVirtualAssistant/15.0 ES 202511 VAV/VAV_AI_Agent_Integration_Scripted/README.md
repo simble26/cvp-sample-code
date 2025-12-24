@@ -3,6 +3,9 @@
 # Application Virtual Agent Voice
 Demonstrates the capabilities of Virtual Agent Voice Call Studio Element with graceful call handling, custom exit and re-entry using Connector Type as Integration.
 
+## Download Instructions
+* The zip file must be downloaded from GitHub using “Download raw file” option (or via git clone / curl)
+
 ## Application Behaviour
 * User needs to select Connector Type as Integration from dropdown and Virtual Agent as Scripted and then add config ID and add mandatory desired event name to start event flow in the setting attribute of VirtualAgentVoice.
   * This setting value is mandatory for Integration.
